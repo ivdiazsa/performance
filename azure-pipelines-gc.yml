@@ -17,6 +17,8 @@ pr:
     - src/benchmarks/real-world/JitBench/README.md
     - src/benchmarks/real-world/Microsoft.ML.Benchmarks/Input/README.md
     - src/tools/ResultsComparer/README.md
+    - src/benchmarks/gc/README.md
+    - src/benchmarks/gc/docs/*
     - README.md
 
 jobs:
